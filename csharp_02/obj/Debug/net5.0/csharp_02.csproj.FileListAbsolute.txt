@@ -1,0 +1,16 @@
+D:\Code4Fun\AOC_2020\csharp_02\bin\Debug\net5.0\csharp_02.exe
+D:\Code4Fun\AOC_2020\csharp_02\bin\Debug\net5.0\csharp_02.deps.json
+D:\Code4Fun\AOC_2020\csharp_02\bin\Debug\net5.0\csharp_02.runtimeconfig.json
+D:\Code4Fun\AOC_2020\csharp_02\bin\Debug\net5.0\csharp_02.runtimeconfig.dev.json
+D:\Code4Fun\AOC_2020\csharp_02\bin\Debug\net5.0\csharp_02.dll
+D:\Code4Fun\AOC_2020\csharp_02\bin\Debug\net5.0\ref\csharp_02.dll
+D:\Code4Fun\AOC_2020\csharp_02\bin\Debug\net5.0\csharp_02.pdb
+D:\Code4Fun\AOC_2020\csharp_02\obj\Debug\net5.0\csharp_02.csprojAssemblyReference.cache
+D:\Code4Fun\AOC_2020\csharp_02\obj\Debug\net5.0\csharp_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code4Fun\AOC_2020\csharp_02\obj\Debug\net5.0\csharp_02.AssemblyInfoInputs.cache
+D:\Code4Fun\AOC_2020\csharp_02\obj\Debug\net5.0\csharp_02.AssemblyInfo.cs
+D:\Code4Fun\AOC_2020\csharp_02\obj\Debug\net5.0\csharp_02.csproj.CoreCompileInputs.cache
+D:\Code4Fun\AOC_2020\csharp_02\obj\Debug\net5.0\csharp_02.dll
+D:\Code4Fun\AOC_2020\csharp_02\obj\Debug\net5.0\ref\csharp_02.dll
+D:\Code4Fun\AOC_2020\csharp_02\obj\Debug\net5.0\csharp_02.pdb
+D:\Code4Fun\AOC_2020\csharp_02\obj\Debug\net5.0\csharp_02.genruntimeconfig.cache
